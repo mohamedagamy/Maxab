@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790887456336",
+    "project_id": "maxab-384fd",
+    "storage_bucket": "maxab-384fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790887456336:android:53a963be0620fcde30fb55",
+        "android_client_info": {
+          "package_name": "com.example.maxbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790887456336-eee5as4b52t8gaid5t27tqe08cglhfju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2ECsaQOA-qNNp2igWe7WjCxR1TD6co4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790887456336-eee5as4b52t8gaid5t27tqe08cglhfju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
